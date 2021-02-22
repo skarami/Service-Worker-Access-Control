@@ -2,7 +2,7 @@
 This is a tool for implementing an access control mechanism in service workers to prevent exploiting its isolation issue.
 
 ## Research paper
-This tool was proposed to prevent the History Sniffing attacks mention in the paper.
+This tool was proposed to prevent the History Sniffing attacks mentioned in the paper.
 
 **Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage** [pdf](http://https://www.cs.uic.edu/~skarami/files/sw21/sw21.pdf "pdf")
 
